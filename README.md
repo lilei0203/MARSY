@@ -2,9 +2,9 @@
 
 In the "Comparison between different types of models" experiment of the study "A Review of Deep Learning Approaches for Drug Synergy Prediction in Cancer", MARSY is retrained using the DrugComb dataset, and their hyperparameters are readjusted to ensure a fair comparison under consistent experimental conditions:
 
-batchsize=64
-learning rate=0.0001
-epoch=200
+* batchsize=64
+* learning rate=0.0001
+* epoch=200
 
 # Requirements
 
